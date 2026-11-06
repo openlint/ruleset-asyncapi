@@ -1,5 +1,5 @@
 {
-  "name": "@openlint/openlint-ruleset-asyncapi",
+  "name": "@openlint/ruleset-asyncapi",
   "version": "0.1.0",
   "description": "OpenLint ruleset for AsyncAPI documents",
   "homepage": "https://github.com/openlint/ruleset-asyncapi",
